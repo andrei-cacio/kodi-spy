@@ -1,15 +1,32 @@
 {
-  "name": "kodi-watcher",
-  "version": "1.0.0",
-  "description": "",
+  "name": "kodi-spy",
+  "version": "0.1.0",
+  "description": "Auto update your Kodi video library whever you add a new video",
   "main": "index.js",
+  "dependencies": {
+    "chokidar": "^1.0.5",
+    "request": "^2.61.0"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Andrei Cacio <andrei.cacio@yahoo.com> (http://andreicacio.com)",
-  "license": "ISC",
-  "devDependencies": {
-    "chokidar": "^1.0.5",
-    "request": "^2.61.0"
-  }
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrei-cacio/kodi-spy.git"
+  },
+  "keywords": [
+    "kodi",
+    "auto",
+    "update",
+    "kodi",
+    "video",
+    "libary"
+  ],
+  "author": "Andrei Cacio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrei-cacio/kodi-spy/issues"
+  },
+  "homepage": "https://github.com/andrei-cacio/kodi-spy"
 }
