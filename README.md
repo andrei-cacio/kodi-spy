@@ -13,5 +13,5 @@ $ npm install -g kodi-spy
 
 ### Usage
 ```shell
-$ kodi-spy kodi-host media-folder
+$ kodi-spy media-folder kodi-host
 ```
