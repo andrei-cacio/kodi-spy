@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var Spy = require('./lib/spy'),
     CommandDispatcher = require('./lib/core/command-dispatcher'),
     Command = require('./lib/core/command'),
