@@ -1,6 +1,6 @@
 {
   "name": "kodi-spy",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Auto update your Kodi video library whever you add a new video",
   "main": "index.js",
   "dependencies": {
