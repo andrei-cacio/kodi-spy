@@ -3,6 +3,9 @@
   "version": "0.2.1",
   "description": "Auto update your Kodi video library whever you add a new video",
   "main": "index.js",
+  "bin": {
+    "kodi-spy": "./index.js"
+  },
   "dependencies": {
     "chokidar": "^1.0.5",
     "mime": "^1.3.4",
