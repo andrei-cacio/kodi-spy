@@ -1,6 +1,6 @@
 # kodi-spy
 
-is a simple watch tool for watching your local media folder and auto updating your Kodi library remotly
+is a simple watch tool for watching your local media folder and auto updating your Kodi library remotly. Inspired by the [Watchdog addon](http://kodi.wiki/view/Add-on:Watchdog).
 
 ### Version
 0.1
